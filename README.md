@@ -3,8 +3,9 @@ This project was developed on Pixel 2 API 31
 that runs android 12.0.
 
 1. cd news_ui
-2. open Android Studio's virtual device
-3. flutter run
+2. $ flutter pub get
+3. open Android Studio's virtual device
+4. $ flutter run
 
 
 # news_ui
